@@ -1,12 +1,24 @@
-## Myllena Santos 👋
+# 👋 Olá, eu sou a Myllena Santos 
 
+### 👩🏽‍💻 Sobre mim
+Desenvolvedora Backend Java, focada na construção de aplicações REST escaláveis, seguras e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Estudante de **Análise e Desenvolvimento de Sistemas**.
 
+🎯 **Objetivo:** Minha primeira oportunidade como **Desenvolvedora Backend Java**.
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Linguagem & Frameworks:** Java, Spring Boot (MVC, REST, Data JPA), Hibernate
+- **Banco de Dados:** SQL, PostgreSQL / MySQL
+- **Testes & Qualidade:** JUnit, Mockito
+- **Metodologias:** Código Limpo (Clean Code), Arquitetura RESTful
+- **Nuvem & DevOps (Em aprendizado):** AWS, CI/CD, Git & GitHub
+
+---
+
+📫 **Vamos nos conectar?**
+- LinkedIn: www.linkedin.com/in/mysantossouza/
+- Email: myllena000@hotmail.com
+  
